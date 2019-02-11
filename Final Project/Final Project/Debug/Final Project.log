@@ -1,0 +1,7 @@
+﻿  Windows.cpp
+b:\computer sciences\cit-283\final project\final project\windows.cpp(5): fatal error C1083: Cannot open include file: 'Final Project.h': No such file or directory
+  FinalProjectDlg.cpp
+b:\computer sciences\cit-283\final project\final project\finalprojectdlg.cpp(6): fatal error C1083: Cannot open include file: 'Final Project.h': No such file or directory
+  FinalProject.cpp
+b:\computer sciences\cit-283\final project\final project\finalproject.cpp(6): fatal error C1083: Cannot open include file: 'Final Project.h': No such file or directory
+  Generating Code...
